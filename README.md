@@ -1,0 +1,1 @@
+## Exercises for course "Artificial Intelligence for Robotics" from Udacity
